@@ -26,7 +26,7 @@ F. Zeyneb Kotan
 
   Just let you to know, I fulfilled all of them. 💯 (three times, actually.)
 
-## 💪🏻 Things that are not stated in the goals but that I did to improve the game
+## 💪🏻 Things I did to improve the game that were not mentioned in the goals
 - I offer not just one language option, but three: English, German and Turkish.
 - By allowing the player to choose both their own name and the name of their computer, I make the game even more enjoyable.
 - I created a scoreboard with a table view that is displayed after each game with the << display_scoreboard >> function. This way the player can see how many games she/he has played and how many of them she/he has won.
